@@ -19,5 +19,3 @@ The following image demonstrates solved function:
 * You can check whether your function works properly by opening [Unsolved/test.html](Unsolved/test.html) in your web browser.
   * Functions that pass the tests will be denoted with a green check mark.
   * Functions that fail the tests will be denoted with a red x and an error message.
-
-sol
